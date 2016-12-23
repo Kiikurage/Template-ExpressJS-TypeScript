@@ -1,6 +1,7 @@
 {
   "name": "express-ts",
   "version": "0.0.0",
+  "license": "MIT",
   "scripts": {
     "gulp": "gulp"
   },
@@ -12,7 +13,7 @@
     "body-parser": "~1.13.2",
     "debug": "~2.2.0",
     "del": "^2.2.2",
-    "express": "~4.13.1",
+    "express": "^4.14.0",
     "gulp": "git://github.com/gulpjs/gulp.git#4.0",
     "gulp-load-plugins": "^1.4.0",
     "gulp-typescript": "^3.1.3",
